@@ -1,6 +1,7 @@
 # Rota do Entregador — busca com A\* e AG
 
 **Disciplina:** Inteligência Artificial
+
 **Aluno:** Mariana de Freitas
 **Tema:** problema de busca em espaço de estados — caminho mínimo e roteirização de entregas
 
