@@ -3,6 +3,7 @@
 **Disciplina:** Inteligência Artificial
 
 **Aluno:** Mariana de Freitas
+
 **Tema:** problema de busca em espaço de estados — caminho mínimo e roteirização de entregas
 
 Implementação em Python de um problema de **entrega de pacotes em uma cidade em grade**,
