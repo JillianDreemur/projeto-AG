@@ -287,7 +287,7 @@ fechar.
 ## 8. Estrutura do projeto
 
 ```
-trabalho de renê/
+projeto-AG/
 ├── comum/                  # infraestrutura compartilhada
 │   ├── problema.py         # grade, geração da cidade, custos
 │   └── modelo.py           # Resultado/Rota, heurísticas, matriz de distâncias
@@ -303,8 +303,5 @@ trabalho de renê/
 │   └── executar.py
 ├── main.py                 # compara os três e gera tabelas/figuras
 ├── requirements.txt
-├── ROTEIRO_APRESENTACAO.md
 └── resultados/             # tabelas, CSV, PNG e log gerados
 ```
-
-> Roteiro de apresentação (6–8 min) em [`ROTEIRO_APRESENTACAO.md`](ROTEIRO_APRESENTACAO.md).
