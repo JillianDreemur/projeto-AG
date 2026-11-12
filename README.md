@@ -10,11 +10,6 @@ Implementação em Python de um problema de **entrega de pacotes em uma cidade e
 resolvido com **A\***, **AG (busca gulosa)** e **AG (algoritmo genético)**, comparados
 com as referências exatas (Dijkstra e força bruta).
 
-> O enunciado pede "A\* e AG". Como a sigla é ambígua, o trabalho entrega **as duas
-> leituras**: **AG = busca gulosa** (Parte 1 e 2) e **AG = algoritmo genético** (Parte 2),
-> comparando os três. Assim o trabalho cobre o que o professor pedir, e ainda rende
-> uma análise extra de qualidade × esforço.
-
 ---
 
 ## 1. O problema
